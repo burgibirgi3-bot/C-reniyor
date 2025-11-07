@@ -1,0 +1,5 @@
+ABİ SENDEN AŞAĞIDAKİ MADDELERE UYGUN HAZIRLAMANI İSTİYORUM:
+
+-Her egzersiz için bir dosya oluştur
+-her egzzersizde yazmanı istediği fonksiyon bir .c dosyasına bunu çalıştırdığın kodu da main.c olarak kaydet
+
