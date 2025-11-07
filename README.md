@@ -1,2 +1,2 @@
-# C-reniyor
+# C- öğreniyor
 c öğreniyor
